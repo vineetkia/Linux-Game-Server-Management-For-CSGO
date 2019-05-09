@@ -1,0 +1,19 @@
+"Advertisements"
+{
+    "1"
+    {
+        "chat"		"{orchid}[AMIGO] {lime}Welcome To {orchid}HEiSENBERG {gold}COMMUNITY PUG SERVER{lime}."
+    }
+    "2"
+    {
+        "chat"		"{darkred}[NOTICE] {lime}This Server Gives {darkred}Zero Tolerance {lime}To {darkblue}Toxic Players{lime}, You Will Be {darkred}Muted {lime}And {darkred}Silenced {lime}Instantly."
+    }
+    "3"
+    {
+        "chat"		"{darkred}[NOTICE] {lime}CONTACT: {orchid}https://steamcommunity.com/id/heisenberg-official"
+    }
+    "4"
+    {
+        "chat"		"{gold}[VIP] {lime}Only Includes {darkblue}Reserved Slots {lime}To Keep It Fair To Other Users."
+    }
+}
