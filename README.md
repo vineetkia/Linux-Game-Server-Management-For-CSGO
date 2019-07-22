@@ -1,4 +1,4 @@
-# # L.G.S.M CSGO-SERVER-FiLES [![EXPLOiT](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+ # L.G.S.M CSGO-SERVER-FiLES [![EXPLOiT](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 > ChangeLOG:
 1) Less Variance on Server ( 0.002 ) Approx.
 2) Much stable Var and no fluctuation.
