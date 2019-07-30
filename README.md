@@ -2,7 +2,10 @@
  <h1 align="center">
  
 <br><a href="https://linuxgsm.com"><img src="https://github.com/GameServerManagers/LinuxGSM-Docs/raw/master/.gitbook/assets/linuxgsm_colour_logo_workmark_short_384.png" alt="LinuxGSM"></a></h1>
-  
+
+### Dependencies Required [Ubuntux64]
+> sudo dpkg --add-architecture i386; sudo apt update; sudo apt install mailutils postfix curl wget file bzip2 gzip unzip bsdmainutils python util-linux ca-certificates binutils bc jq tmux lib32gcc1 libstdc++6 libstdc++6:i386
+
 > ChangeLOG:
 1) Less Variance on Server ( 0.002 ) Approx.
 2) Much stable Var and no fluctuation.
@@ -14,3 +17,4 @@
 8) PUG / Scrim Server Setup BY Default.
 9) Auto PUG / Scrim Start on Connection.
 10) Custom ADMiN Panel and Already STEAM API And Custom Workshop ID For Custom Maps.
+
