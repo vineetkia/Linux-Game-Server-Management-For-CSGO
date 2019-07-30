@@ -8,6 +8,7 @@
 
 #### Installing the server files:(Make sure to run on standard user)
 > wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh && bash linuxgsm.sh csgoserver
+
 > ./csgoserver install
 
 > ChangeLOG:
