@@ -1,4 +1,8 @@
  # L.G.S.M CSGO-SERVER-FiLES [![EXPLOiT](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+ <h1 align="center">
+  <br>
+  <a href="https://linuxgsm.com"><img src="https://github.com/GameServerManagers/LinuxGSM-Docs/raw/master/.gitbook/assets/linuxgsm_colour_logo_workmark_short_384.png" alt="LinuxGSM"></a>
+  </h1>
 > ChangeLOG:
 1) Less Variance on Server ( 0.002 ) Approx.
 2) Much stable Var and no fluctuation.
