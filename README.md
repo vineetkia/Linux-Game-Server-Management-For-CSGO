@@ -11,7 +11,7 @@
 
 > ./csgoserver install
 
-> ChangeLOG:
+#### ChangeLOG for my server files:
 1) Less Variance on Server ( 0.002 ) Approx.
 2) Much stable Var and no fluctuation.
 3) Custom Color variable plugin for chat.
